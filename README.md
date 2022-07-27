@@ -18,6 +18,10 @@ Dengan penerapan enemble nilai yang berbeda antar model dapat diaverage yang men
 | Ensemble | 99.3902 | 99.3902 |  99.3902 |  99.3971 |
 
 
+Hasil ensemble
+<p align="center">
+  <img src="https://github.com/ARRARIAKU2/Disease-Symptom-Prediction/blob/josua/Documentations/Ensemble/Conf_Matrix_Ensemble.png" alt="Sublime's custom image"/>
+</p>
 
 
 
